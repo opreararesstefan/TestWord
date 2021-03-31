@@ -1,0 +1,16 @@
+﻿<Properties>
+  <Array name="active" />
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <Array name="bookmarks" />
+  <Array name="files" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{75D4D059-478B-45B0-B303-76B1CE64CB85}</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+      <string>ffb02568-92bf-4f8e-95bd-bf65bfb564e6</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution CodedUiWordTest[CodedUiWordTest[Controllers[Mappings[]]Tests[]]]]&#xD;&#xA;Solution CodedUiWordTest\CodedUiWordTest\CodedUiWordTest.rxtst&#xD;&#xA;Solution CodedUiWordTest" />
+  <StartupProject value="{75D4D059-478B-45B0-B303-76B1CE64CB85}" />
+</Properties>

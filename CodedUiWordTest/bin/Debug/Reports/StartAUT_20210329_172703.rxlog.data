@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="8.33s"
+		durationms="8329"
+		type="root"
+		rid="2055d06b44287b66"
+		totalerrorcount="0"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="user"
+		rxversion="9.5.0.0"
+		host="THINKPAD-P50"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="de-DE"
+		dtnlanguage="en-IE"
+		screenresolution="1920x1080"
+		timestamp="29/03/2021 17:27:05"
+		timestampiso="2021-03-29T15:27:05"
+		endtime="29/03/2021 17:27:13"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="StartAUT">
+		<detail>
+			StartAUT
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.053"
+			timeRelativeToTestModuleStartTime="00:08.053"
+			timeWallClock="17:27:13"
+			time="00:08.053"
+			level="Warn"
+			category="Data">
+			<message>
+				The following module variables are not bound to a data column:<br/>StartAutProcessIDVar
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.080"
+			timeRelativeToTestModuleStartTime="00:08.080"
+			timeWallClock="17:27:13"
+			time="00:08.080"
+			level="Info"
+			category="Application">
+			<message>
+				Run application 'C:\Program Files\WindowsApps\Microsoft.Office.Desktop.Word_16051.13801.20360.0_x86__8wekyb3d8bbwe\Office16\WINWORD.EXE' in normal mode. Return value bound to $StartAutProcessIDVar.
+			</message>
+			<metainfo
+				itemindex="0"
+				codefile="C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\StartAUT.cs"
+				codeline="95"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

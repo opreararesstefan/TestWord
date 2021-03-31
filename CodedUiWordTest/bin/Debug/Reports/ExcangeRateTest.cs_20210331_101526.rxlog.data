@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="8.37s"
+		durationms="8369"
+		type="root"
+		rid="d9b7b534feb8708"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="user"
+		rxversion="9.5.0.0"
+		host="THINKPAD-P50"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="de-DE"
+		dtnlanguage="en-IE"
+		screenresolution="1920x1080"
+		timestamp="31/03/2021 10:15:28"
+		timestampiso="2021-03-31T08:15:28"
+		endtime="31/03/2021 10:15:36"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="ExcangeRateTest">
+		<detail>
+			ExcangeRateTest
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.362"
+			timeRelativeToTestModuleStartTime="00:06.362"
+			timeWallClock="10:15:34"
+			time="00:06.362"
+			level="Info"
+			category="User">
+			<message>
+				Open Edge
+			</message>
+			<metainfo
+				codefile="C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\Controllers\Controllers.cs"
+				codeline="179"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

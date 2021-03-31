@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="45.89s"
+		durationms="45888"
+		type="root"
+		rid="13eb6065c2eab64"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="user"
+		rxversion="9.5.0.0"
+		host="THINKPAD-P50"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="de-DE"
+		dtnlanguage="en-IE"
+		screenresolution="1920x1080"
+		timestamp="31/03/2021 17:46:51"
+		timestampiso="2021-03-31T15:46:51"
+		endtime="31/03/2021 17:47:37"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="ExcangeRateTest">
+		<detail>
+			ExcangeRateTest
+		</detail>
+		<errormessage>
+			Cannot process request because the process (18884) has exited.
+		</errormessage>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.237"
+			timeRelativeToTestModuleStartTime="00:12.237"
+			timeWallClock="17:47:04"
+			time="00:12.237"
+			level="Info"
+			category="User">
+			<message>
+				Open Edge
+			</message>
+			<metainfo
+				codefile="C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\Controllers\Controllers.cs"
+				codeline="210"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:45.459"
+			timeRelativeToTestModuleStartTime="00:45.459"
+			timeWallClock="17:47:37"
+			time="00:45.459"
+			level="Info"
+			category="User"
+			errimg="images_ExcangeR_7923915d\ExcangeR_7923915d_eb0b68f5_trace.jpg"
+			errthumb="images_ExcangeR_7923915d\ExcangeR_7923915d_eb0b68f5_trace_thumb.jpg">
+			<message>
+				FirstContent 0.853855
+			</message>
+			<metainfo
+				codefile="C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\Tests\ExcangeRateTest.cs"
+				codeline="64"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:45.731"
+			timeRelativeToTestModuleStartTime="00:45.731"
+			timeWallClock="17:47:37"
+			time="00:45.731"
+			level="Info"
+			category="User"
+			errimg="images_ExcangeR_7923915d\ExcangeR_7923915d_339d91db_trace.jpg"
+			errthumb="images_ExcangeR_7923915d\ExcangeR_7923915d_339d91db_trace_thumb.jpg">
+			<message>
+				Open Edge
+			</message>
+			<metainfo
+				codefile="C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\Controllers\Controllers.cs"
+				codeline="210"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:45.781"
+			timeRelativeToTestModuleStartTime="00:45.781"
+			timeWallClock="17:47:37"
+			time="00:45.781"
+			level="Error"
+			category="Module"
+			errimg="images_ExcangeR_7923915d\ExcangeR_7923915d_339d91db_trace.jpg"
+			errthumb="images_ExcangeR_7923915d\ExcangeR_7923915d_339d91db_trace_thumb.jpg">
+			<message>
+				Cannot process request because the process (18884) has exited.
+			</message>
+			<metainfo
+				stacktrace="   at System.Diagnostics.Process.GetProcessHandle(Int32 access, Boolean throwIfExited)&#13;&#10;   at System.Diagnostics.Process.WaitForInputIdle(Int32 milliseconds)&#13;&#10;   at System.Diagnostics.Process.WaitForInputIdle()&#13;&#10;   at CodedUiWordTest.Controllers.Controllers.&lt;>c__DisplayClass15_0.&lt;ForceCloseProcess>b__0() in C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\Controllers\Controllers.cs:line 172&#13;&#10;   at System.Threading.SpinWait.SpinUntil(Func`1 condition, Int32 millisecondsTimeout)&#13;&#10;   at CodedUiWordTest.Controllers.Controllers.ForceCloseProcess(String proc) in C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\Controllers\Controllers.cs:line 167&#13;&#10;   at CodedUiWordTest.Controllers.Controllers.OpenEdge(String link) in C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\Controllers\Controllers.cs:line 211&#13;&#10;   at CodedUiWordTest.Tests.ExcangeRateTest.Ranorex.Core.Testing.ITestModule.Run() in C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\Tests\ExcangeRateTest.cs:line 69&#13;&#10;   at Ranorex.Core.Testing.TestModuleLeaf.RunInternal(DataContext parentDataContext, Int32 iteration, Int32 iterationCount, Boolean skipIteration)"
+				codefile="C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\Controllers\Controllers.cs"
+				codeline="172"
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

@@ -1,0 +1,63 @@
+﻿<repository
+id="ebf0ae5f-4a8e-4a54-881c-f8872edf840a"
+name="DateiSystemDialog">
+	<codegen
+	classname="DateiSystemDialog"
+	namespace="CodedUiWordTest.Controllers.Mappings">
+	</codegen>
+	<rootfolder
+	capname="host"
+	id="c71dbba8-56d1-47f5-89f1-8a9f31160cfe"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="False">
+		<item
+		addcaps="text,nativewindow"
+		capname="text"
+		id="b4001439-fe1a-4c51-bf4f-7b32e2bb7dd4"
+		name="Dateiname"
+		refimgid="1aecaf97-2d76-4887-b298-86fd58e761c1"
+		robustPath=""
+		searchtimeout="30000ms">
+			/form[@title='Öffnen']/combobox/text[@controlid='1148']
+		</item>
+		<item
+		addcaps="button,nativewindow"
+		capname="button"
+		id="e9b1c6ec-d2d1-4fd4-be89-22ffdae57f2e"
+		name="Offnen"
+		refimgid="254359f2-d7e1-45c4-9713-afcc93509712"
+		refpath="/form[@title='Öffnen']/button[@text='Ö&amp;ffnen']"
+		robustPath=""
+		searchtimeout="30000ms">
+			/form[@title='&#214;ffnen']/button[@text='&#214;&amp;ffnen']
+		</item>
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="edf5d3c2-2456-4f67-82a1-87bc1b37bcc7"
+		isrooted="True"
+		name="DateiSystemFenster"
+		refpath="/form[@title='Öffnen']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<basepath>
+				/form[@title='Öffnen']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAD/SURBVDhPY0AGjkvfvndc+u4/8fjte6hWCMCu
+CD+GaoUAbAoIYQbxyD3vJaL2/seHpeMPYNUMwgzYNGDDYk4F/7VrLmNgsAHbT7/6f/Tae7DCKw8+
+/3/06juYDRIDyYHYonaZuA2oXXTr/8evv/+rpRz8DwOm+UfBBoHkCBoQ1HwOrCl/xjWwJpBhIDYI
+gOQIGgDCIAByPsjJIAxigwBMnkc3Ds5GxnADQP4FgZ6198DOBgFYuIAwQQNmbX8E1gRyMsxLIDGY
+PEEDCGGcBhCTkMTDtv3nkPf4L2A/EQNDEzEEgBThwjz6uYQNwKaAEIZqhQABu4nvsSnCie0mvgcA
++kxFVnm0rt0AAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>

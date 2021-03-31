@@ -1,0 +1,427 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CodedUiWordTest</name>
+    </assembly>
+    <members>
+        <member name="T:CodedUiWordTest.Controllers.Controllers">
+            <summary>
+            Description of Controllers.
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Controllers.Controllers.WordStart">
+            <summary>
+            WordStart
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Controllers.Controllers.OpenClick">
+            <summary>
+            OpenClick
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Controllers.Controllers.OpenWithKeys">
+            <summary>
+            OpenWithKeys
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Controllers.Controllers.ErsteSchrittDialog">
+            <summary>
+            ErsteSchrittDialog
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Controllers.Controllers.Durchsuchen">
+            <summary>
+            Durchsuchen
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Controllers.Controllers.OpenFile">
+            <summary>
+            OpenFile
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Controllers.Controllers.WordClose">
+            <summary>
+            WordClose
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Controllers.Controllers.ForceCloseProcess(System.String)">
+            <summary>
+            ForceClose
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Controllers.Controllers.OpenEdge(System.String)">
+            <summary>
+            OpenEdge
+            </summary>
+            <param name="link"></param>
+        </member>
+        <member name="M:CodedUiWordTest.Controllers.Controllers.GetActualValue(System.String)">
+            <summary>
+            GetActualValue
+            </summary>
+            <param name="link"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CodedUiWordTest.Controllers.Controllers.CloseEdge">
+            <summary>
+            ForceClose
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Controllers.Controllers.WaitDomRender(System.String)">
+            <summary>
+            WaitDomRender
+            </summary>
+            <param name="link"></param>
+        </member>
+        <member name="M:CodedUiWordTest.Controllers.Controllers.PrintMess(System.Double,System.Double)">
+            <summary>
+            PrintMess
+            </summary>
+            <param name="FirstContent"></param>
+            <param name="SecondContent"></param>
+        </member>
+        <member name="T:CodedUiWordTest.Controllers.Mappings.DateiSystemDialog">
+            <summary>
+            The class representing the DateiSystemDialog element repository.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.DateiSystemDialog.Instance">
+            <summary>
+            Gets the singleton class instance representing the DateiSystemDialog element repository.
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Controllers.Mappings.DateiSystemDialog.#ctor">
+            <summary>
+            Repository class constructor.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.DateiSystemDialog.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.DateiSystemDialog.Dateiname">
+            <summary>
+            The Dateiname item.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.DateiSystemDialog.DateinameInfo">
+            <summary>
+            The Dateiname item info.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.DateiSystemDialog.Offnen">
+            <summary>
+            The Offnen item.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.DateiSystemDialog.OffnenInfo">
+            <summary>
+            The Offnen item info.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.DateiSystemDialog.DateiSystemFenster">
+            <summary>
+            The DateiSystemFenster folder.
+            </summary>
+        </member>
+        <member name="T:CodedUiWordTest.Controllers.Mappings.DateiSystemDialogFolders">
+            <summary>
+            Inner folder classes.
+            </summary>
+        </member>
+        <member name="T:CodedUiWordTest.Controllers.Mappings.DateiSystemDialogFolders.DateiSystemFensterAppFolder">
+            <summary>
+            The DateiSystemFensterAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Controllers.Mappings.DateiSystemDialogFolders.DateiSystemFensterAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new DateiSystemFenster  folder.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.DateiSystemDialogFolders.DateiSystemFensterAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.DateiSystemDialogFolders.DateiSystemFensterAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="T:CodedUiWordTest.Controllers.Mappings.Edge">
+            <summary>
+            The class representing the Edge element repository.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.Edge.Instance">
+            <summary>
+            Gets the singleton class instance representing the Edge element repository.
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Controllers.Mappings.Edge.#ctor">
+            <summary>
+            Repository class constructor.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.Edge.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.Edge.OpenChange2">
+            <summary>
+            The OpenChange2 item.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.Edge.OpenChange2Info">
+            <summary>
+            The OpenChange2 item info.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.Edge.HaupFenster">
+            <summary>
+            The HaupFenster item.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.Edge.HaupFensterInfo">
+            <summary>
+            The HaupFenster item info.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.Edge.Currencyplayer">
+            <summary>
+            The Currencyplayer folder.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.Edge.OpenChange">
+            <summary>
+            The OpenChange folder.
+            </summary>
+        </member>
+        <member name="T:CodedUiWordTest.Controllers.Mappings.EdgeFolders">
+            <summary>
+            Inner folder classes.
+            </summary>
+        </member>
+        <member name="T:CodedUiWordTest.Controllers.Mappings.EdgeFolders.CurrencyplayerAppFolder">
+            <summary>
+            The CurrencyplayerAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Controllers.Mappings.EdgeFolders.CurrencyplayerAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new Currencyplayer  folder.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.EdgeFolders.CurrencyplayerAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.EdgeFolders.CurrencyplayerAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="T:CodedUiWordTest.Controllers.Mappings.EdgeFolders.OpenChangeAppFolder">
+            <summary>
+            The OpenChangeAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Controllers.Mappings.EdgeFolders.OpenChangeAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new OpenChange  folder.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.EdgeFolders.OpenChangeAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.EdgeFolders.OpenChangeAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="T:CodedUiWordTest.Controllers.Mappings.WordDialog">
+            <summary>
+            The class representing the WordDialog element repository.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.WordDialog.Instance">
+            <summary>
+            Gets the singleton class instance representing the WordDialog element repository.
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Controllers.Mappings.WordDialog.#ctor">
+            <summary>
+            Repository class constructor.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.WordDialog.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.WordDialog.ErsteSchritClose">
+            <summary>
+            The ErsteSchritClose item.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.WordDialog.ErsteSchritCloseInfo">
+            <summary>
+            The ErsteSchritClose item info.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.WordDialog.Offnen">
+            <summary>
+            The Offnen item.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.WordDialog.OffnenInfo">
+            <summary>
+            The Offnen item info.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.WordDialog.Durchsuchen">
+            <summary>
+            The Durchsuchen item.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.WordDialog.DurchsuchenInfo">
+            <summary>
+            The Durchsuchen item info.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.WordDialog.Startseite">
+            <summary>
+            The Startseite item.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.WordDialog.StartseiteInfo">
+            <summary>
+            The Startseite item info.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.WordDialog.WordClose">
+            <summary>
+            The WordClose item.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.WordDialog.WordCloseInfo">
+            <summary>
+            The WordClose item info.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.WordDialog.Schliessen">
+            <summary>
+            The Schliessen item.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.WordDialog.SchliessenInfo">
+            <summary>
+            The Schliessen item info.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.WordDialog.WordProcces">
+            <summary>
+            The WordProcces folder.
+            </summary>
+        </member>
+        <member name="T:CodedUiWordTest.Controllers.Mappings.WordDialogFolders">
+            <summary>
+            Inner folder classes.
+            </summary>
+        </member>
+        <member name="T:CodedUiWordTest.Controllers.Mappings.WordDialogFolders.WordProccesAppFolder">
+            <summary>
+            The WordProccesAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Controllers.Mappings.WordDialogFolders.WordProccesAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new WordProcces  folder.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.WordDialogFolders.WordProccesAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:CodedUiWordTest.Controllers.Mappings.WordDialogFolders.WordProccesAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="T:CodedUiWordTest.Tests.ExcangeRateTest">
+            <summary>
+            Description of RateExcangeTest.
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Tests.ExcangeRateTest.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Tests.ExcangeRateTest.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this module.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="T:CodedUiWordTest.Tests.WordKeyTest">
+            <summary>
+            Description of WordKeyTest.
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Tests.WordKeyTest.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Tests.WordKeyTest.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this module.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="T:CodedUiWordTest.Tests.WordMouseTest">
+            <summary>
+            Description of CodedUIWordTest.
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Tests.WordMouseTest.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:CodedUiWordTest.Tests.WordMouseTest.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this module.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="T:__RxMain.__RxProgram">
+            <summary>
+            Modified Program class that ensures that the Ranorex System gets initialized and cleaned up
+            correctly. This file is auto-generated during project build. This class will invoke the
+            original 'Main' method implementation as needed.
+            </summary>
+        </member>
+        <member name="M:__RxMain.__RxProgram.Main(System.String[])">
+            <summary>
+            The entry point of the application.
+            </summary>
+            <param name="args">Contains any number of command line arguments.</param>
+            <returns>The return value of the projects original 'Main' implementation.</returns>
+        </member>
+    </members>
+</doc>

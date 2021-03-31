@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="3.1m"
+		durationms="186957"
+		type="root"
+		rid="1a401f8abb09c160"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="user"
+		rxversion="9.5.0.0"
+		host="THINKPAD-P50"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="de-DE"
+		dtnlanguage="en-IE"
+		screenresolution="1920x1080"
+		timestamp="31/03/2021 14:04:37"
+		timestampiso="2021-03-31T12:04:37"
+		endtime="31/03/2021 14:07:44"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="ExcangeRateTest">
+		<detail>
+			ExcangeRateTest
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.964"
+			timeRelativeToTestModuleStartTime="00:10.964"
+			timeWallClock="14:04:48"
+			time="00:10.964"
+			level="Info"
+			category="User">
+			<message>
+				Open Edge
+			</message>
+			<metainfo
+				codefile="C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\Controllers\Controllers.cs"
+				codeline="198"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="03:06.937"
+			timeRelativeToTestModuleStartTime="03:06.937"
+			timeWallClock="14:07:44"
+			time="03:06.937"
+			level="Info"
+			category="User">
+			<message>
+				(null)
+			</message>
+			<metainfo
+				codefile="C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\Tests\ExcangeRateTest.cs"
+				codeline="67"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

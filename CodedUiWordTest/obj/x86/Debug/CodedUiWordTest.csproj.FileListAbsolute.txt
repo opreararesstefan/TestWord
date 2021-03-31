@@ -1,0 +1,12 @@
+C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\obj\x86\Debug\CodedUiWordTest.csprojAssemblyReference.cache
+C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\obj\x86\Debug\CodedUiWordTest.csproj.CoreCompileInputs.cache
+C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\bin\Debug\CodedUiWordTest.rxtst
+C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\bin\Debug\CodedUiWordTest.exe.config
+C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\bin\Debug\CodedUiWordTest.xml
+C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\bin\Debug\CodedUiWordTest.exe
+C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\bin\Debug\CodedUiWordTest.pdb
+C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\obj\x86\Debug\CodedUiWordTest.csproj.CopyComplete
+C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\obj\x86\Debug\CodedUiWordTest.exe
+C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\obj\x86\Debug\CodedUiWordTest.pdb

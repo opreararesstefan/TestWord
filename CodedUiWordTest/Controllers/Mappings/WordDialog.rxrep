@@ -1,0 +1,105 @@
+﻿<repository
+id="21f0609a-3a26-4a8e-b787-9064246ad664"
+name="WordDialog">
+	<codegen
+	classname="WordDialog"
+	namespace="CodedUiWordTest.Controllers.Mappings">
+	</codegen>
+	<rootfolder
+	capname="host"
+	id="1803ad4e-d4bc-4d4d-97f2-a3dafe476ebd"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="False">
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="0954f7e7-8e6a-47ab-bde1-060a414d8375"
+		isrooted="True"
+		name="WordProcces"
+		refpath="/form[@title='Word (Nicht lizenziertes Produkt)']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<basepath>
+				/form[@title&gt;'Word (Nicht lizenziertes']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAD/SURBVDhPY0AGjkvfvndc+u4/8fjte6hWCMCu
+CD+GaoUAbAoIYQbxyD3vJaL2/seHpeMPYNUMwgzYNGDDYk4F/7VrLmNgsAHbT7/6f/Tae7DCKw8+
+/3/06juYDRIDyYHYonaZuA2oXXTr/8evv/+rpRz8DwOm+UfBBoHkCBoQ1HwOrCl/xjWwJpBhIDYI
+gOQIGgDCIAByPsjJIAxigwBMnkc3Ds5GxnADQP4FgZ6198DOBgFYuIAwQQNmbX8E1gRyMsxLIDGY
+PEEDCGGcBhCTkMTDtv3nkPf4L2A/EQNDEzEEgBThwjz6uYQNwKaAEIZqhQABu4nvsSnCie0mvgcA
++kxFVnm0rt0AAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<item
+		addcaps="button,uiautomation,uiautomationinvoke"
+		capname="button"
+		id="1d1f4232-2525-4df2-ad0f-3b0fb12b63d5"
+		name="ErsteSchritClose"
+		refimgid="b112d9a4-fc36-47a2-aa07-66415e426fc0"
+		robustPath=""
+		searchtimeout="30000ms">
+			/form[@title&gt;'Erste Schritte mit Microsoft']/titlebar/button[@automationid='Close']
+		</item>
+		<item
+		addcaps="listitem,uiautomation"
+		capname="listitem"
+		id="bf8a3810-8d2f-462c-8ce8-8c4d55a8d991"
+		name="Offnen"
+		refimgid="e678adf7-0c68-4e0b-ba74-8ad813382676"
+		refpath="/form[@title='Word (Nicht lizenziertes Produkt)']/element[@class='FullpageUIHost']/container[@class='NetUIHWND']/container[1]/list[@automationid='NavBarMenu']/listitem[@name='Öffnen']"
+		robustPath=""
+		searchtimeout="30000ms">
+			/form[@title&gt;'Word (Nicht lizenziertes']/element[@class='FullpageUIHost']/container[@class='NetUIHWND']/container[1]/list[@automationid='NavBarMenu']/listitem[@name='&#214;ffnen']
+		</item>
+		<item
+		addcaps="button,uiautomation,uiautomationinvoke"
+		capname="button"
+		id="1ca1d9dd-8ba6-48c1-8e1a-0be7cd90b8b3"
+		name="Durchsuchen"
+		refimgid="381ff106-b8de-4ea3-b95f-a313981131c2"
+		refpath="/form[@title='Word (Nicht lizenziertes Produkt)']/element[@class='FullpageUIHost']/container[@class='NetUIHWND']/container[@automationid='BackstageView']/container[@name='Öffnen']/container[@name='Öffnen']/container[@classname='NetUIScrollViewer']/contextmenu[@name='Öffnen']/container[@classname='NetUIElement']/button[@name='Durchsuchen']"
+		robustPath=""
+		searchtimeout="30000ms">
+			/form[@title&gt;'Word (Nicht lizenziertes']//container[@automationid='BackstageView']/container[@name='&#214;ffnen']/container[@name='&#214;ffnen']/?/?/contextmenu[@name='&#214;ffnen']/?/?/button[@name='Durchsuchen']
+		</item>
+		<item
+		addcaps="listitem,uiautomation"
+		capname="listitem"
+		id="617df558-e830-46ee-a736-33e24eeb7546"
+		name="Startseite"
+		refimgid="bfd0c0f8-0d97-4165-8a0a-0ad0f402ff4c"
+		refpath="/form[@title='Word (Nicht lizenziertes Produkt)']/element[@class='FullpageUIHost']/container[@class='NetUIHWND']/container[1]/list[@automationid='NavBarMenu']/listitem[@name='Startseite']"
+		robustPath=""
+		searchtimeout="30000ms">
+			/form[@title&gt;'Word (Nicht lizenziertes']/element[@class='FullpageUIHost']/container[@class='NetUIHWND']/container[1]/list[@automationid='NavBarMenu']/listitem[@name='Startseite']
+		</item>
+		<item
+		addcaps="button,uiautomation,uiautomationinvoke"
+		capname="button"
+		id="2bcaf7af-f10a-4054-a952-2b8a516ffcda"
+		name="WordClose"
+		refimgid="addfb3c8-d7d1-455f-af66-5d30ad64f615"
+		robustPath=""
+		searchtimeout="30000ms">
+			/form[@title&gt;'CV.docx']/element[@class='FullpageUIHost']/container/button[@name='Schlie&#223;en']
+		</item>
+		<item
+		addcaps="button,uiautomation,uiautomationinvoke"
+		capname="button"
+		id="223e1de9-404f-4f32-b4c9-0df83d1c7dcb"
+		name="Schliessen"
+		refimgid="8aff40c4-c9d9-4162-8c1e-38072635bdc4"
+		robustPath=""
+		searchtimeout="30000ms">
+			/form[@title&gt;'CV.docx - Word (Nicht lizenziertes']/container[@caption='MsoDockTop']/container[@caption='Ribbon']/element/element/container/container[@name='Ribbon']/button[@name='Schlie&#223;en']
+		</item>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="8.12s"
+		durationms="8118"
+		type="root"
+		rid="13856d33be724c2c"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="user"
+		rxversion="9.5.0.0"
+		host="THINKPAD-P50"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="de-DE"
+		dtnlanguage="en-IE"
+		screenresolution="1920x1080"
+		timestamp="31/03/2021 11:04:23"
+		timestampiso="2021-03-31T09:04:23"
+		endtime="31/03/2021 11:04:31"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="ExcangeRateTest">
+		<detail>
+			ExcangeRateTest
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.463"
+			timeRelativeToTestModuleStartTime="00:04.463"
+			timeWallClock="11:04:27"
+			time="00:04.463"
+			level="Info"
+			category="User">
+			<message>
+				Open Edge
+			</message>
+			<metainfo
+				codefile="C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\Controllers\Controllers.cs"
+				codeline="185"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.840"
+			timeRelativeToTestModuleStartTime="00:07.840"
+			timeWallClock="11:04:31"
+			time="00:07.840"
+			level="Info"
+			category="User">
+			<message>
+				{&quot;success&quot;:true,&quot;terms&quot;:&quot;https:\/\/currencylayer.com\/terms&quot;,&quot;privacy&quot;:&quot;https:\/\/currencylayer.com\/privacy&quot;,&quot;timestamp&quot;:1617156788,&quot;source&quot;:&quot;USD&quot;,&quot;quotes&quot;:{&quot;USDAED&quot;:3.6732,&quot;USDAFN&quot;:78.414311,&quot;USDALL&quot;:105.210177,&quot;USDAMD&quot;:530.69843,&quot;USDANG&quot;:1.796498,&quot;USDAOA&quot;:626.15001,&quot;USDARS&quot;:91.953501,&quot;USDAUD&quot;:1.314406,&quot;USDAWG&quot;:1.8,&quot;USDAZN&quot;:1.702876,&quot;USDBAM&quot;:1.668462,&quot;USDBBD&quot;:2.02079,&quot;USDBDT&quot;:84.815843,&quot;USDBGN&quot;:1.67004,&quot;USDBHD&quot;:0.377004,&quot;USDBIF&quot;:1948.858814,&quot;USDBMD&quot;:1,&quot;USDBND&quot;:1.347938,&quot;USDBOB&quot;:6.915822,&quot;USDBRL&quot;:5.773596,&quot;USDBSD&quot;:1.000832,&quot;USDBTC&quot;:1.699665e-5,&quot;USDBTN&quot;:73.654433,&quot;USDBWP&quot;:11.120571,&quot;USDBYN&quot;:2.627141,&quot;USDBYR&quot;:19600,&quot;USDBZD&quot;:2.01736,&quot;USDCAD&quot;:1.262345,&quot;USDCDF&quot;:1995.999764,&quot;USDCHF&quot;:0.943298,&quot;USDCLF&quot;:0.026431,&quot;USDCLP&quot;:729.306901,&quot;USDCNY&quot;:6.563968,&quot;USDCOP&quot;:3728.5,&quot;USDCRC&quot;:613.061597,&quot;USDCUC&quot;:1,&quot;USDCUP&quot;:26.5,&quot;USDCVE&quot;:94.064706,&quot;USDCZK&quot;:22.335798,&quot;USDDJF&quot;:178.175505,&quot;USDDKK&quot;:6.350698,&quot;USDDOP&quot;:56.93836,&quot;USDDZD&quot;:133.955852,&quot;USDEGP&quot;:15.719901,&quot;USDERN&quot;:15.00002,&quot;USDETB&quot;:41.283638,&quot;USDEUR&quot;:0.853855,&quot;USDFJD&quot;:2.071298,&quot;USDFKP&quot;:0.728045,&quot;USDGBP&quot;:0.728085,&quot;USDGEL&quot;:3.410285,&quot;USDGGP&quot;:0.728045,&quot;USDGHS&quot;:5.784896,&quot;USDGIP&quot;:0.728045,&quot;USDGMD&quot;:51.250388,&quot;USDGNF&quot;:10045.426045,&quot;USDGTQ&quot;:7.726536,&quot;USDGYD&quot;:209.584337,&quot;USDHKD&quot;:7.77475,&quot;USDHNL&quot;:24.057873,&quot;USDHRK&quot;:6.4631,&quot;USDHTG&quot;:80.066027,&quot;USDHUF&quot;:310.210309,&quot;USDIDR&quot;:14550.65,&quot;USDILS&quot;:3.33646,&quot;USDIMP&quot;:0.728045,&quot;USDINR&quot;:73.438023,&quot;USDIQD&quot;:1462.5,&quot;USDIRR&quot;:42104.999802,&quot;USDISK&quot;:126.799211,&quot;USDJEP&quot;:0.728045,&quot;USDJMD&quot;:145.559475,&quot;USDJOD&quot;:0.709044,&quot;USDJPY&quot;:110.630989,&quot;USDKES&quot;:109.790013,&quot;USDKGS&quot;:84.7792,&quot;USDKHR&quot;:4045.000139,&quot;USDKMF&quot;:420.095814,&quot;USDKPW&quot;:899.96123,&quot;USDKRW&quot;:1131.529776,&quot;USDKWD&quot;:0.30218,&quot;USDKYD&quot;:0.834055,&quot;USDKZT&quot;:425.409581,&quot;USDLAK&quot;:9395.000333,&quot;USDLBP&quot;:1513.276035,&quot;USDLKR&quot;:199.180822,&quot;USDLRD&quot;:173.250169,&quot;USDLSL&quot;:14.919691,&quot;USDLTL&quot;:2.95274,&quot;USDLVL&quot;:0.60489,&quot;USDLYD&quot;:4.537137,&quot;USDMAD&quot;:9.0775,&quot;USDMDL&quot;:18.055237,&quot;USDMGA&quot;:3808.245004,&quot;USDMKD&quot;:52.562435,&quot;USDMMK&quot;:1411.191026,&quot;USDMNT&quot;:2855.619986,&quot;USDMOP&quot;:8.014434,&quot;USDMRO&quot;:356.999828,&quot;USDMUR&quot;:40.350458,&quot;USDMVR&quot;:15.449859,&quot;USDMWK&quot;:785.933588,&quot;USDMXN&quot;:20.60302,&quot;USDMYR&quot;:4.154498,&quot;USDMZN&quot;:69.064963,&quot;USDNAD&quot;:14.919973,&quot;USDNGN&quot;:380.000496,&quot;USDNIO&quot;:34.929003,&quot;USDNOK&quot;:8.55389,&quot;USDNPR&quot;:117.847835,&quot;USDNZD&quot;:1.431745,&quot;USDOMR&quot;:0.385005,&quot;USDPAB&quot;:1.000832,&quot;USDPEN&quot;:3.772497,&quot;USDPGK&quot;:3.530862,&quot;USDPHP&quot;:48.535497,&quot;USDPKR&quot;:154.089851,&quot;USDPLN&quot;:3.980149,&quot;USDPYG&quot;:6455.92783,&quot;USDQAR&quot;:3.64125,&quot;USDRON&quot;:4.2027,&quot;USDRSD&quot;:100.312651,&quot;USDRUB&quot;:75.934198,&quot;USDRWF&quot;:995.218454,&quot;USDSAR&quot;:3.750203,&quot;USDSBD&quot;:7.980973,&quot;USDSCR&quot;:21.075957,&quot;USDSDG&quot;:381.505606,&quot;USDSEK&quot;:8.74083,&quot;USDSGD&quot;:1.34707,&quot;USDSHP&quot;:0.728045,&quot;USDSLL&quot;:10239.999725,&quot;USDSOS&quot;:584.999765,&quot;USDSRD&quot;:14.153976,&quot;USDSTD&quot;:20604.104248,&quot;USDSVC&quot;:8.75763,&quot;USDSYP&quot;:1257.671429,&quot;USDSZL&quot;:14.992301,&quot;USDTHB&quot;:31.351497,&quot;USDTJS&quot;:11.409718,&quot;USDTMT&quot;:3.51,&quot;USDTND&quot;:2.792502,&quot;USDTOP&quot;:2.2892,&quot;USDTRY&quot;:8.324402,&quot;USDTTD&quot;:6.802107,&quot;USDTWD&quot;:28.516506,&quot;USDTZS&quot;:2318.999597,&quot;USDUAH&quot;:27.911347,&quot;USDUGX&quot;:3663.119282,&quot;USDUSD&quot;:1,&quot;USDUYU&quot;:44.572691,&quot;USDUZS&quot;:10483.734064,&quot;USDVEF&quot;:189897871068.60922,&quot;USDVND&quot;:23094.345417,&quot;USDVUV&quot;:109.829629,&quot;USDWST&quot;:2.5425,&quot;USDXAF&quot;:559.587618,&quot;USDXAG&quot;:0.041771,&quot;USDXAU&quot;:0.000594,&quot;USDXCD&quot;:2.70255,&quot;USDXDR&quot;:0.704734,&quot;USDXOF&quot;:559.582845,&quot;USDXPF&quot;:102.149734,&quot;USDYER&quot;:250.349789,&quot;USDZAR&quot;:14.92905,&quot;USDZMK&quot;:9001.206151,&quot;USDZMW&quot;:22.093814,&quot;USDZWL&quot;:322.000331}}
+			</message>
+			<metainfo
+				codefile="C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\Tests\ExcangeRateTest.cs"
+				codeline="64"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

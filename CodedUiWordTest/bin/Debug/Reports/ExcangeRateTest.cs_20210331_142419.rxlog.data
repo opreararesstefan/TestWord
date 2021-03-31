@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="5s"
+		durationms="5001"
+		type="root"
+		rid="46b221d5fc4bdbd"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="user"
+		rxversion="9.5.0.0"
+		host="THINKPAD-P50"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="de-DE"
+		dtnlanguage="en-IE"
+		screenresolution="1920x1080"
+		timestamp="31/03/2021 14:24:21"
+		timestampiso="2021-03-31T12:24:21"
+		endtime="31/03/2021 14:24:26"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="ExcangeRateTest">
+		<detail>
+			ExcangeRateTest
+		</detail>
+		<errormessage>
+			Access is denied
+		</errormessage>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.845"
+			timeRelativeToTestModuleStartTime="00:04.845"
+			timeWallClock="14:24:26"
+			time="00:04.845"
+			level="Info"
+			category="User"
+			errimg="images_ExcangeR_4a3ca82a\ExcangeR_4a3ca82a_c50c0107_trace.jpg"
+			errthumb="images_ExcangeR_4a3ca82a\ExcangeR_4a3ca82a_c50c0107_trace_thumb.jpg">
+			<message>
+				Open Edge
+			</message>
+			<metainfo
+				codefile="C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\Controllers\Controllers.cs"
+				codeline="205"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.861"
+			timeRelativeToTestModuleStartTime="00:04.861"
+			timeWallClock="14:24:26"
+			time="00:04.861"
+			level="Info"
+			category="User"
+			errimg="images_ExcangeR_4a3ca82a\ExcangeR_4a3ca82a_c50c0107_trace.jpg"
+			errthumb="images_ExcangeR_4a3ca82a\ExcangeR_4a3ca82a_c50c0107_trace_thumb.jpg">
+			<message>
+				kill msedge
+			</message>
+			<metainfo
+				codefile="C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\Controllers\Controllers.cs"
+				codeline="170"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.865"
+			timeRelativeToTestModuleStartTime="00:04.865"
+			timeWallClock="14:24:26"
+			time="00:04.865"
+			level="Info"
+			category="User"
+			errimg="images_ExcangeR_4a3ca82a\ExcangeR_4a3ca82a_c50c0107_trace.jpg"
+			errthumb="images_ExcangeR_4a3ca82a\ExcangeR_4a3ca82a_c50c0107_trace_thumb.jpg">
+			<message>
+				kill msedge
+			</message>
+			<metainfo
+				codefile="C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\Controllers\Controllers.cs"
+				codeline="170"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.873"
+			timeRelativeToTestModuleStartTime="00:04.873"
+			timeWallClock="14:24:26"
+			time="00:04.873"
+			level="Error"
+			category="Module"
+			errimg="images_ExcangeR_4a3ca82a\ExcangeR_4a3ca82a_c50c0107_trace.jpg"
+			errthumb="images_ExcangeR_4a3ca82a\ExcangeR_4a3ca82a_c50c0107_trace_thumb.jpg">
+			<message>
+				Access is denied
+			</message>
+			<metainfo
+				stacktrace="   at System.Diagnostics.Process.Kill()&#13;&#10;   at CodedUiWordTest.Controllers.Controllers.&lt;>c__DisplayClass15_0.&lt;ForceCloseProcess>b__0() in C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\Controllers\Controllers.cs:line 171&#13;&#10;   at System.Threading.SpinWait.SpinUntil(Func`1 condition, Int32 millisecondsTimeout)&#13;&#10;   at CodedUiWordTest.Controllers.Controllers.ForceCloseProcess(String proc) in C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\Controllers\Controllers.cs:line 165&#13;&#10;   at CodedUiWordTest.Controllers.Controllers.OpenEdge(String link) in C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\Controllers\Controllers.cs:line 206&#13;&#10;   at CodedUiWordTest.Tests.ExcangeRateTest.Ranorex.Core.Testing.ITestModule.Run() in C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\Tests\ExcangeRateTest.cs:line 62&#13;&#10;   at Ranorex.Core.Testing.TestModuleLeaf.RunInternal(DataContext parentDataContext, Int32 iteration, Int32 iterationCount, Boolean skipIteration)"
+				codefile="C:\Workspace\PRO\CodedUiTest\CodedUiWordTest\CodedUiWordTest\Controllers\Controllers.cs"
+				codeline="171"
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>
